@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: 2015-05-01T22:12:03.284Z
-description: Hello World
+title: Hello Cruel World
+date: 2026-07-07T15:04:39-06:00
+description: "Hello World\r"
 ---
 
 This is my first post on my new fake blog! How exciting!
